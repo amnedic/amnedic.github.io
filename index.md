@@ -6,4 +6,3 @@
 ## Writings
 
 [test.pdf](http://USERNAME.github.io/REPONAME/docs/test.pdf)
-<img src="images/.jpg?raw=true"/>
