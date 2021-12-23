@@ -1,35 +1,14 @@
-## Portfolio
+## Projects
 
----
+[Magnetic fluctuations in multiorbital model of doped SrCo2As2](/sample_page)
+<img src="images/.jpg?raw=true"/>
 
-### Category Name 1 
+## Writings
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+[Intro.pdf](http://USERNAME.github.io/REPONAME/docs/Intro.pdf)
+<img src="images/.jpg?raw=true"/>
 
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
