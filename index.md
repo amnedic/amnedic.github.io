@@ -1,9 +1,12 @@
-## Projects
+## Portfolio
 
--- 
-Magnetic fluctuations in multiorbital model of doped SrCo2As2
-<img src="images/.jpg?raw=true"/>
+---
 
-### Writings
+### Category Name 1 
 
-[test.pdf](http://USERNAME.github.io/REPONAME/docs/test.pdf)
+[Project 1 Title](/SrCo2As2)
+<img src="images/test.png?raw=true"/>
+
+---
+
+
