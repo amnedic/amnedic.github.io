@@ -1,7 +1,7 @@
 ## Projects
 
 -- 
-[Magnetic fluctuations in multiorbital model of doped SrCo2As2](/SrCo2As2)
+Magnetic fluctuations in multiorbital model of doped SrCo2As2
 <img src="images/.jpg?raw=true"/>
 
 ### Writings
