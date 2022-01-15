@@ -1,9 +1,6 @@
 title: Ana-Marija Nedić # your name (or website title) here
 logo: "/images/photo_amnedic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  I'm currently a PhD student at Iowa State University and Ames Lab working in the field of strongly correlated quantum materials with <a href="https://faculty.sites.iastate.edu/porth/people/peter-p-orth">Peter Orth</a>.
-  
-  ---
-
-  List of publications on <a href="https://arxiv.org/search/cond-mat?searchtype=author&query=Nedi%C4%87%2C+A+M">Google Scholar</a> 
+  I'm currently a PhD student at Iowa State University and Ames Lab working in the field of strongly correlated quantum materials with <a href="https://faculty.sites.iastate.edu/porth/people/peter-p-orth">Peter Orth</a>.<br/>
+  List of publications on <a href="https://arxiv.org/search/cond-mat?searchtype=author&query=Nedi%C4%87%2C+A+M">Google Scholar</a>. 
 theme: jekyll-theme-minimal
