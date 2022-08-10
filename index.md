@@ -12,6 +12,9 @@ List of publications on <a href="https://arxiv.org/search/cond-mat?searchtype=au
 
 ## Projects
 
+[Emergent order via an ancilla sublattice](/q=3Potts)
+<img src="images/test.PNG?raw=true"/>
+
 [Magnetic fluctuations in itinerant multiorbital model of SrCo2As2](/SrCo2As2)
 <img src="images/test.PNG?raw=true"/>
 
