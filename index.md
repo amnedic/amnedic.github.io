@@ -1,4 +1,14 @@
-My research is motivated by the intriguing magnetic and optical phenomena observed in prospective two- and three-dimensional electron systems. 
+## About
+
+I'm a PhD student at Iowa State University in condensed matter physics working in the field of strongly correlated quantum materials in the group <a href="https://faculty.sites.iastate.edu/porth/">Prof. Peter P. Orth</a>.<br/><br/>. My research is motivated by the intriguing magnetic and optical phenomena observed in prospective two- and three-dimensional electron systems.
+
+List of publications on <a href="https://arxiv.org/search/cond-mat?searchtype=author&query=Nedi%C4%87%2C+A+M">ArXiv</a>. 
+
+## Brief CV
+
+2017 - present         PhD student in Condensed Matter Theory, Iowa State University, Ames
+2016 - 2017            ICFP master in Quantum Physics at École Normale Supérieure, Paris, France
+2012 - 2016            Undergraduate studies in Theoretical and Experimental Physics at University of Belgrade, Serbia
 
 ## Projects
 
