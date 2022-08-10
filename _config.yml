@@ -1,4 +1,9 @@
 title: Ana-Marija Nedić # your name (or website title) here
 logo: "/images/photo_amnedic.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks) I'm a PhD student at Iowa State University in condensed matter physics working in the field of strongly correlated quantum materials in the group <a href="https://faculty.sites.iastate.edu/porth/">Prof. Peter P. Orth</a>.<br/><br/> List of publications on <a href="https://arxiv.org/search/cond-mat?searchtype=author&query=Nedi%C4%87%2C+A+M">ArXiv</a>. 
+description: > # your text below (remove <br> elements if you don't need line breaks) 
+contact: <style type=”text/css”>
+p span.displaynone { display:none; }
+</style>
+<p>amnedic@<span class=”displaynone”>null</span>iastate.edu</p>
+#I'm a PhD student at Iowa State University in condensed matter physics working in the field of strongly correlated quantum materials in the group <a href="https://faculty.sites.iastate.edu/porth/">Prof. Peter P. Orth</a>.<br/><br/> List of publications on <a href="https://arxiv.org/search/cond-mat?searchtype=author&query=Nedi%C4%87%2C+A+M">ArXiv</a>. 
 theme: jekyll-theme-minimal
