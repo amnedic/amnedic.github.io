@@ -1,8 +1,4 @@
 title: Ana-Marija Nedić # your name (or website title) here
 logo: "/images/photo_amnedic.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks) 
-<style type=”text/css”>
-p span.displaynone { display:none; }
-</style>
-<p>silvanfoobar8@<span class=”displaynone”>null</span>tilllate.com</p>
+description: # your text below (remove <br> elements if you don't need line breaks) 
 theme: jekyll-theme-minimal
