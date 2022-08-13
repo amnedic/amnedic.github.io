@@ -6,9 +6,11 @@ List of publications on <a href="https://arxiv.org/search/cond-mat?searchtype=au
 
 ## Brief CV
 
-2017 - present&nbsp;&nbsp;&nbsp;&nbsp;PhD student in Condensed Matter Physics <br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iowa State University, Ames <br/><br/>
-2016 - 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ICFP master in Quantum Physics<br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;École Normale Supérieure, Paris, France <br/><br/>
-2012 - 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Undergraduate studies in Theoretical and Experimental Physics<br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Belgrade, Serbia
+2017 - now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iowa State University, Ames
+PhD student in Condensed Matter Physics <br/><br/>
+
+2016 - 2017&nbsp;&nbsp;&nbsp;École Normale Supérieure, Paris, France
+ICFP master in Quantum Physics<br/><br/>
+
+2012 - 2016&nbsp;&nbsp;&nbsp;University of Belgrade, Serbia
+Undergraduate studies in Theoretical and Experimental Physics
