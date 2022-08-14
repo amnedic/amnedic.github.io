@@ -7,10 +7,10 @@ List of publications on <a href="https://arxiv.org/search/cond-mat?searchtype=au
 ## Brief CV
 
 2017 - now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iowa State University, Ames <br/>
-PhD student in Condensed Matter Physics
+PhD in Condensed Matter Physics
 
 2016 - 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;École Normale Supérieure, Paris, France <br/>
-International Center for Fundamental Physics (ICFP) master program in Quantum Physics
+International Center for Fundamental Physics (ICFP) MSc in Quantum Physics
 
 2012 - 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Belgrade, Serbia <br/>
-Undergraduate studies in Theoretical and Experimental Physics
+BSc in Theoretical and Experimental Physics
