@@ -10,7 +10,7 @@ List of publications on <a href="https://arxiv.org/search/cond-mat?searchtype=au
 PhD student in Condensed Matter Physics
 
 2016 - 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;École Normale Supérieure, Paris, France <br/>
-ICFP master in Quantum Physics
+International Center for Fundamental Physics (ICFP) master program in Quantum Physics
 
 2012 - 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Belgrade, Serbia <br/>
 Undergraduate studies in Theoretical and Experimental Physics
