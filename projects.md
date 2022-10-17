@@ -1,0 +1,3 @@
+* In the experimentally-driven work, we studied the magnetic phase diagram of the model of the topological insulator MnBi2Te4 using the classical Monte Carlo simulations. Due to the competing interactions, the phase diagram of MnBi2Te4 showed the proximity to various magnetic phases, including a prediction of a skyrmion-like phase. 
+
+Bing Li, J.-Q. Yan, D. M. Pajerowski, Elijah Gordon, A.-M. Nedić, Y. Sizyuk, Liqin Ke, P. P. Orth, D. Vaknin, and R. J. McQueeney, <em>Competing magnetic interactions in the antiferromagnetic topological insulator MnBi2Te4</em> Phys. Rev. Lett. 124, 167204 (2020).
