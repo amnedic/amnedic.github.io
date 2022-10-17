@@ -17,7 +17,8 @@ BSc in Theoretical and Experimental Physics
 
 ## Research
 
-<a href="/projects.md">See more</a>
+<img src="images/itinerant_competition.PNG?raw=true"/>
+<a href="/projects">See more</a>
 
 
 
