@@ -1,8 +1,9 @@
 ## Research
 
 [1] Magnetic phase diagram of the topological insulator MnBi2Te4 
-
+<img src="images/phases_MnBi2Te4.PNG?raw=true"/>
 In the experimentally-driven work, we studied the magnetic phase diagram of the model of the topological insulator MnBi2Te4 using the classical Monte Carlo simulations. Due to the competing interactions, the phase diagram of MnBi2Te4 showed the proximity to various magnetic phases, including a prediction of a skyrmion-like phase. 
+{: .text-justify}
 
 Bing Li, J.-Q. Yan, D. M. Pajerowski, Elijah Gordon, A.-M. Nedić, Y. Sizyuk, Liqin Ke, P. P. Orth, D. Vaknin, and R. J. McQueeney, <em>Competing magnetic interactions in the antiferromagnetic topological insulator MnBi2Te4</em> <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.167204">Phys. Rev. Lett. <b>124</b>, 167204 (2020)</a>.
 
