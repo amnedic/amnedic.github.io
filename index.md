@@ -28,7 +28,7 @@ Bing Li, J.-Q. Yan, D. M. Pajerowski, Elijah Gordon, A.-M. Nedić, Y. Sizyuk, Li
 
 #### [2] Three-state Potts nematic order in continuous stacked models
 
-<img src="images/models_PottsZ3.PNG?raw=true"/>
+<img src="images/PottsZ3.PNG?raw=true"/>
 We extended the concept of the stabilization of the long-range nematic order from Z3 Potts universality class to continuous models on stacked lattice designs and to yet unexplored regime of materials with mixed ferro- and antiferromagnetic interactions. We studied the zero- and finite-temperature phase diagrams and the criticality of the Z3 Potts phase that emerges through a composite order parameter and explored the role of quantum and thermal fluctuations on stabilizing the Z3 Potts phase in the purely bilinear Heisenberg model.
 
 Ana-Marija Nedić, Victor L. Quito, Yuriy Sizyuk, Peter P. Orth, <em>Three-state Potts nematic order in stacked frustrated spin models with SO(3) symmetry</em>, <a href="https://arxiv.org/abs/2210.04900">arXiv:2210.04900 (2022)</a>.
