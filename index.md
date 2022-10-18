@@ -28,13 +28,14 @@ Bing Li, J.-Q. Yan, D. M. Pajerowski, Elijah Gordon, A.-M. Nedić, Y. Sizyuk, Li
 
 #### [2] Three-state Potts nematic order in continuous stacked models
 
-<img src="images/PottsZ3.PNG?raw=true"/>
+<img src="images/pottsZ3.PNG?raw=true"/>
 We extended the concept of the stabilization of the long-range nematic order from Z3 Potts universality class to continuous models on stacked lattice designs and to yet unexplored regime of materials with mixed ferro- and antiferromagnetic interactions. We studied the zero- and finite-temperature phase diagrams and the criticality of the Z3 Potts phase that emerges through a composite order parameter and explored the role of quantum and thermal fluctuations on stabilizing the Z3 Potts phase in the purely bilinear Heisenberg model.
 
 Ana-Marija Nedić, Victor L. Quito, Yuriy Sizyuk, Peter P. Orth, <em>Three-state Potts nematic order in stacked frustrated spin models with SO(3) symmetry</em>, <a href="https://arxiv.org/abs/2210.04900">arXiv:2210.04900 (2022)</a>.
 
 #### [3] Itinerant magnetic frustration in a multiorbital model for SrCo2As2
 
+<img src="images/itinerant_fr.PNG?raw=true"/>
 We revisited the intriguing magnetic behavior of SrCo2As2, which remains paramagnetic despite the observed strong magnetic fluctuations and identified the leading magnetic instabilities. We studied how different parameters can exchange the relative strengths between them. Introducing the frustration parameter as a difference between the critical Hubbard interaction strenths for different orders, we argued the lack of magnetic order in SrCo2As2 due to the itinerant magentic frustration.
 
 #### [4] Nonlinear optical responses in van der Waals materials
