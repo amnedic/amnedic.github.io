@@ -6,7 +6,7 @@ Using the combination of analytical and numerical tools and with the experience 
 
 2017 - now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iowa State University, Ames <br/>
 Ph.D. candidate in Condensed Matter Physics with <a href="https://faculty.sites.iastate.edu/porth/">Prof. Peter P. Orth</a> <br/>
-Expected graduation in Summer 2023 in the group of <a href="https://faculty.sites.iastate.edu/porth/">Prof. Peter P. Orth</a> <br/>
+Expected graduation in Summer 2023
 
 2016 - 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;École Normale Supérieure, Paris, France <br/>
 M.Sc. in Quantum Physics (ENS-ICFP master's program) <br/>
