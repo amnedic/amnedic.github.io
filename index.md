@@ -1,6 +1,6 @@
 ## About
 
-Using the combination of analytical and numerical tools and with the experience in collaborating with multiple experimental groups, I study quantum many-body systems and correlation-driven physics in electron systems. My research is motivated by the intriguing magnetic, topological and optical phenomena observed in prospective two- and three-dimensional quantum materials.
+I study quantum many-body systems using a combination of analytical and numerical methods and in collaboration with multiple experimental groups. My research is motivated by predicting or studying intriguing magnetic and optical phenomena observed in prospective two- and three-dimensional quantum materials.
 
 ## Education
 
