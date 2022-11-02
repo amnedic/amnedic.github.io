@@ -1,6 +1,6 @@
 ## About
 
-I study quantum many-body systems using a combination of analytical and numerical methods and in collaboration with multiple experimental groups. My research is motivated by predicting or studying intriguing magnetic and optical phenomena observed in prospective two- and three-dimensional quantum materials.
+I study quantum many-body systems using a combination of analytical and numerical methods and in collaboration with multiple experimental groups.
 
 ## Education
 
