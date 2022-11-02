@@ -17,7 +17,7 @@ B.Sc. in Theoretical and Experimental Physics
 
 ## Research
 
-My research is motivated by the intriguing magnetic, topological and optical phenomena observed in prospective two- and three-dimensional electron systems. 
+My research is motivated by the intriguing magnetic, topological and optical phenomena observed in prospective two- and three-dimensional quantum materials. 
 
 #### [1] Magnetic phase diagram of the topological insulator MnBi2Te4
 
