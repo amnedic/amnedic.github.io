@@ -21,7 +21,7 @@ My research is motivated by the intriguing magnetic, topological and optical phe
 
 #### List of publications:
 
-[1] Ana-Marija Nedić, Morten H. Christensen, Y. Lee, Bing Li, Benjamin  G. Ueland, Rafael M. Fernandes, Robert J. McQueeney, Liqin Ke, Peter P. Orth, <em>Competing magnetic fluctuations and orders in a multiorbital model of doped SrCo2As2</em>, <a href="[https://arxiv.org/abs/2210.04900](https://arxiv.org/search/cond-mat?searchtype=author&query=Nedi%C4%87%2C+A)">arXiv:0000.00000 (2022)</a>.
+[1] Ana-Marija Nedić, Morten H. Christensen, Y. Lee, Bing Li, Benjamin  G. Ueland, Rafael M. Fernandes, Robert J. McQueeney, Liqin Ke, Peter P. Orth, <em>Competing magnetic fluctuations and orders in a multiorbital model of doped SrCo2As2</em>, <a href="https://arxiv.org/search/cond-mat?searchtype=author&query=Nedi%C4%87%2C+A">arXiv:0000.00000 (2022)</a> (<a href="https://github.com/Orth-Research/RPA_SrCo2As2">repository</a>).
 
 [2] Ana-Marija Nedić, Victor L. Quito, Yuriy Sizyuk, Peter P. Orth, <em>Three-state Potts nematic order in stacked frustrated spin models with SO(3) symmetry</em>, <a href="https://arxiv.org/abs/2210.04900">arXiv:2210.04900 (2022)</a>.
 
