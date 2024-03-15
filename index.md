@@ -1,31 +1,29 @@
 ## About
 
-I study quantum many-body systems using a combination of analytical and numerical methods and in collaboration with multiple experimental groups.
+My research focuses on studying the interplay of emergent orders in correlated electron systems, as well as the role of magnetism in magnetic topological materials. I employ a combination of analytical, numerical, and first-principles methods in my research, and have experience of close collaboration with multiple experimental groups.
+
+## Current position
+
+2023 - now &nbsp;&nbsp;&#8729;&nbsp;&nbsp; Postdoctoral Researcher at the Center for Quantum Materials at the University of Minnesota, Minneapolis, working with Prof. <a href=https://cse.umn.edu/physics/rafael-fernandes>Rafael M. Fernandes</a> and Prof. <a href=https://cse.umn.edu/cems/turan-birol>Turan Birol</a>. 
 
 ## Education
 
-2017 - now &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Iowa State University, Ames <br/>
-Ph.D. candidate in Condensed Matter Physics with <a href="https://faculty.sites.iastate.edu/porth/">Prof. Peter P. Orth</a> <br/>
-Expected graduation in Summer 2023
+2017 - 2023 &nbsp;&nbsp;&#8729;&nbsp;&nbsp; Ph.D. in Condensed Matter Physics &#8729; Iowa State University &#8729;	 Ames, IA <br/>
+Thesis: <em>Effects of phase competition and frustration in itinerant and local-moment magnetic materials</em>, advised by Prof. <a href="https://faculty.sites.iastate.edu/porth/">Peter P. Orth</a>.
 
-2016 - 2017&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;École Normale Supérieure, Paris, France <br/>
-M.Sc. in Quantum Physics (ENS-ICFP master's program) <br/>
-Internship with <a href="https://sites.google.com/site/pascalsimonphysics/">Prof. Pascal Simon</a> <br/>
+2016 - 2017 &nbsp;&nbsp;&#8729;&nbsp;&nbsp; M.Sc. in Quantum Physics  &#8729; École Normale Supérieure  &#8729; Paris, France <br/>
+ENS-ICFP master's program; internship advisor Prof. <a href="https://sites.google.com/site/pascalsimonphysics/"> Pascal Simon</a>.
 
-2012 - 2016&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Belgrade, Serbia <br/>
-B.Sc. in Theoretical and Experimental Physics
+2012 - 2016 &nbsp;&nbsp;&#8729;&nbsp;&nbsp; B.Sc. in Theoretical and Experimental Physics &#8729;	University of Belgrade  &#8729;	 Belgrade, Serbia 
 
-## Research
 
-My research is motivated by the intriguing magnetic, topological and optical phenomena observed in prospective two- and three-dimensional quantum materials. 
+## List of publications:
 
-#### List of publications:
+[1] <b>A.-M. Nedić</b>, M. H. Christensen, Y. Lee, B. Li, B. G. Ueland, R. M. Fernandes, R. J. McQueeney, L. Ke, P. P. Orth, <em>Competing magnetic fluctuations and orders in a multiorbital model of doped SrCo2As2</em>, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.245149">Phys. Rev. B <b>108</b>, 245149 (2023).</a> (<a href="https://github.com/Orth-Research/RPA_SrCo2As2">repository</a>).
 
-[1] Ana-Marija Nedić, Morten H. Christensen, Y. Lee, Bing Li, Benjamin  G. Ueland, Rafael M. Fernandes, Robert J. McQueeney, Liqin Ke, Peter P. Orth, <em>Competing magnetic fluctuations and orders in a multiorbital model of doped SrCo2As2</em>, <a href="https://arxiv.org/abs/2212.07511">arXiv:2212.07511 (2022)</a> (<a href="https://github.com/Orth-Research/RPA_SrCo2As2">repository</a>).
+[2] <b>A.-M. Nedić</b>, V. L. Quito, Y. Sizyuk, P. P. Orth, <em>Three-state Potts nematic order in stacked frustrated spin models with SO(3) symmetry</em>, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.184401">Phys. Rev. B <b>107</b>, 184401 (2023)</a>.
 
-[2] Ana-Marija Nedić, Victor L. Quito, Yuriy Sizyuk, Peter P. Orth, <em>Three-state Potts nematic order in stacked frustrated spin models with SO(3) symmetry</em>, <a href="https://arxiv.org/abs/2210.04900">arXiv:2210.04900 (2022)</a>.
-
-[3] Bing Li, J.-Q. Yan, D. M. Pajerowski, Elijah Gordon, A.-M. Nedić, Y. Sizyuk, Liqin Ke, P. P. Orth, D. Vaknin, and R. J. McQueeney, <em>Competing magnetic interactions in the antiferromagnetic topological insulator MnBi2Te4</em>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.167204">Phys. Rev. Lett. <b>124</b>, 167204 (2020)</a>.
+[3] Bing Li, J.-Q. Yan, D. M. Pajerowski, E. Gordon, <b>A.-M. Nedić</b>, Y. Sizyuk, L. Ke, P. P. Orth, D. Vaknin, and R. J. McQueeney, <em>Competing magnetic interactions in the antiferromagnetic topological insulator MnBi2Te4</em>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.167204">Phys. Rev. Lett. <b>124</b>, 167204 (2020)</a>.
 
 <!---
 #### [1] Magnetic phase diagram of the topological insulator MnBi2Te4
