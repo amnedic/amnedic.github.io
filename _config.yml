@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   Connect on <a href="https://www.linkedin.com/in/amnedic/">LinkedIn</a>
   <br>
-  List of publications on <a href="https://scholar.google.com/citations?user=G8dpesz0AAAAJ&hl=en">Google Scholar</a>
+  List of publications on <a href="https://scholar.google.com/citations?user=G8dpesz0AAAAJ\&hl=en">Google Scholar</a>
   <br>
   Codes repositories on <a href="https://github.com/amnedic/">GitHub</a>
 theme: jekyll-theme-minimal
