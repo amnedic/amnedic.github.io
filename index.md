@@ -4,7 +4,7 @@ My research focuses on studying the interplay of emergent orders in correlated e
 
 ## Current position
 
-2023 - now &nbsp;&#8729;&nbsp; Postdoctoral Researcher at the Center for Quantum Materials at the University of Minnesota, Minneapolis, working with Prof. <a href=https://cse.umn.edu/physics/rafael-fernandes>Rafael M. Fernandes</a> and Prof. <a href=https://cse.umn.edu/cems/turan-birol>Turan Birol</a>. 
+2023 - now &nbsp;&#8729;&nbsp; Postdoctoral Researcher at the Center for Quantum Materials at the University of Minnesota, Minneapolis, working with Prof. <a href="https://cse.umn.edu/physics/rafael-fernandes">Rafael M. Fernandes</a> and Prof. <a href="https://cse.umn.edu/cems/turan-birol">Turan Birol</a>. 
 
 ## Education
 
