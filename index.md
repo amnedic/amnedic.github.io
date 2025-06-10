@@ -24,7 +24,7 @@ at University of Belgrade  &#8729; Belgrade, Serbia
 
 [6] S. X. M. Riberolles, <b>AMN</b>, B. Kuthanazhi, F. Ye, S. L. Bud'ko, P. C. Canfield, R. J. McQueeney, Junyeong Ahn, V. L. Quito, T. V. Trevisan, L. L. Wang, P. P. Orth, B. G. Ueland, <em>Symmetry tuning topological states of an axion insulator with noncollinear magnetic order</em>, <a href="https://arxiv-org.ezp3.lib.umn.edu/abs/2505.22796"><em>arXiv preprint arXiv:2505.22796 (2025).</em></a>
 
-[5] M. Terilli, X. Jia, X. Liu, P. Laurell, <b>AMN</b>, Y. Chang, T.-C. Wu, H. Chen, H. Li, M. H. Upton, J. Kim, J.-W. Kim, P. J. Ryan, C. Nelson, J. Zhou, M. Kareev, W. Hu, J. H. Pixley, G. A. Fiete, Y. Cao J. Chakhalian, Spectrally sharp magnetic excitations above the critical temperature in a frustrated Weyl semimetal (to appear in <em>Nat. Comm.</em>)
+[5] M. Terilli, X. Jia, X. Liu, P. Laurell, <b>AMN</b>, Y. Chang, T.-C. Wu, H. Chen, H. Li, M. H. Upton, J. Kim, J.-W. Kim, P. J. Ryan, C. Nelson, J. Zhou, M. Kareev, W. Hu, J. H. Pixley, G. A. Fiete, Y. Cao J. Chakhalian, <em>Spectrally sharp magnetic excitations above the critical temperature in a frustrated Weyl semimetal</em> (to appear in <em>Nat. Comm.</em>)
 
 [4] <b>AMN</b>, P. P. Orth, <em>Intertwined vestigial orders in stacked magnetic flatlands</em>, <a href="https://doi.org/10.1038/s41567-024-02634-6">Nat. Phys. <b>20</b>, 1694–1695 (2024).</a>
 
