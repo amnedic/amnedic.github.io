@@ -1,20 +1,20 @@
 ## About
 
-My research focuses on studying the interplay of emergent orders in correlated electron systems, as well as the role of magnetism in magnetic topological materials. I employ a combination of analytical, numerical, and first-principles methods in my research, and have experience of close collaboration with multiple experimental groups.
+The focus of my research is at the intersection of condensed matter physics and materials science. I have experience studying the interplay of emergent phenomena in correlated electron systems, including unconventional superconductivity, ferroelectricity and flexoelectricity, as well as magnetism in both itinerant and local-moment systems, including magnetic topological materials. I use a combination of analytical, numerical, and first-principles approaches in my work.
 
 ## Current position
 
-2023 - now &#8729; Postdoctoral Researcher at the Center for Quantum Materials at the University of Minnesota, Minneapolis, working with Prof. <a href="https://cse.umn.edu/physics/rafael-fernandes">Rafael M. Fernandes</a> and Prof. <a href="https://cse.umn.edu/cems/turan-birol">Turan Birol</a>. 
+2023 - now &#8729; Postdoctoral Researcher at the Center for Quantum Materials at the University of Minnesota, Minneapolis, working with Prof. <a href="https://physics.illinois.edu/people/directory/profile/rafaelf">Rafael M. Fernandes</a> and Prof. <a href="https://cse.umn.edu/cems/turan-birol">Turan Birol</a>. 
 
 ## Education
 
 2017 - 2023 &#8729; Ph.D. in Condensed Matter Physics <br/> 
 at Iowa State University &#8729; Ames, IA <br/>
-Thesis: <em>Effects of phase competition and frustration in itinerant and local-moment magnetic materials</em>, advised by Prof. <a href="https://faculty.sites.iastate.edu/porth/">Peter P. Orth</a>.
+Thesis: <em>Effects of phase competition and frustration in itinerant and local-moment magnetic materials</em>, advised by Prof. <a href="https://www.uni-saarland.de/lehrstuhl/orth.html">Peter P. Orth</a>.
 
 2016 - 2017 &#8729; M.Sc. in Quantum Physics <br/>
 at École Normale Supérieure  &#8729; Paris, France <br/>
-ENS-ICFP master's program; internship advisor Prof. <a href="https://sites.google.com/site/pascalsimonphysics/"> Pascal Simon</a>.
+ENS-ICFP master's program; internship advisor Prof. <a href="https://equipes.lps.u-psud.fr/pascal-simon/"> Pascal Simon</a>.
 
 2012 - 2016 &nbsp;&#8729;&nbsp; B.Sc. in Theoretical and Experimental Physics <br/>
 at University of Belgrade  &#8729; Belgrade, Serbia 
