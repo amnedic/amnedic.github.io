@@ -9,15 +9,15 @@ The focus of my research is at the intersection of condensed matter physics and 
 ## Education
 
 2017 - 2023 &#8729; Ph.D. in Condensed Matter Physics <br/> 
-at Iowa State University &#8729; Ames, IA <br/>
+Iowa State University &#8729; Ames, IA <br/>
 Thesis: <em>Effects of phase competition and frustration in itinerant and local-moment magnetic materials</em>, advised by Prof. <a href="https://www.uni-saarland.de/lehrstuhl/orth.html">Peter P. Orth</a>.
 
 2016 - 2017 &#8729; M.Sc. in Quantum Physics <br/>
-at École Normale Supérieure  &#8729; Paris, France <br/>
+École Normale Supérieure  &#8729; Paris, France <br/>
 ENS-ICFP master's program; internship advisor Prof. <a href="https://equipes.lps.u-psud.fr/pascal-simon/"> Pascal Simon</a>.
 
 2012 - 2016 &nbsp;&#8729;&nbsp; B.Sc. in Theoretical and Experimental Physics <br/>
-at University of Belgrade  &#8729; Belgrade, Serbia 
+University of Belgrade  &#8729; Belgrade, Serbia 
 
 
 ## List of publications:
