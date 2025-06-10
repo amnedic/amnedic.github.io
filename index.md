@@ -22,11 +22,17 @@ at University of Belgrade  &#8729; Belgrade, Serbia
 
 ## List of publications:
 
-[1] <b>A.-M. Nedić</b>, M. H. Christensen, Y. Lee, B. Li, B. G. Ueland, R. M. Fernandes, R. J. McQueeney, L. Ke, P. P. Orth, <em>Competing magnetic fluctuations and orders in a multiorbital model of doped SrCo2As2</em>, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.245149">Phys. Rev. B <b>108</b>, 245149 (2023).</a> (<a href="https://github.com/Orth-Research/RPA_SrCo2As2">repository</a>).
+[6] S. X. M. Riberolles, <b>AMN</b>, B. Kuthanazhi, F. Ye, S. L. Bud'ko, P. C. Canfield, R. J. McQueeney, Junyeong Ahn, V. L. Quito, T. V. Trevisan, L. L. Wang, P. P. Orth, B. G. Ueland, <em>Symmetry tuning topological states of an axion insulator with noncollinear magnetic order</em>, <a href="https://arxiv-org.ezp3.lib.umn.edu/abs/2505.22796"><em>arXiv preprint arXiv:2505.22796 (2025).</em></a>
 
-[2] <b>A.-M. Nedić</b>, V. L. Quito, Y. Sizyuk, P. P. Orth, <em>Three-state Potts nematic order in stacked frustrated spin models with SO(3) symmetry</em>, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.184401">Phys. Rev. B <b>107</b>, 184401 (2023)</a>.
+[5] M. Terilli, X. Jia, X. Liu, P. Laurell, <b>AMN</b>, Y. Chang, T.-C. Wu, H. Chen, H. Li, M. H. Upton, J. Kim, J.-W. Kim, P. J. Ryan, C. Nelson, J. Zhou, M. Kareev, W. Hu, J. H. Pixley, G. A. Fiete, Y. Cao J. Chakhalian, Spectrally sharp magnetic excitations above the critical temperature in a frustrated Weyl semimetal (to appear in <em>Nat. Comm.</em>)
 
-[3] Bing Li, J.-Q. Yan, D. M. Pajerowski, E. Gordon, <b>A.-M. Nedić</b>, Y. Sizyuk, L. Ke, P. P. Orth, D. Vaknin, and R. J. McQueeney, <em>Competing magnetic interactions in the antiferromagnetic topological insulator MnBi2Te4</em>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.167204">Phys. Rev. Lett. <b>124</b>, 167204 (2020)</a>.
+[4] <b>AMN</b>, P. P. Orth, <em>Intertwined vestigial orders in stacked magnetic flatlands</em>, <a href="https://doi.org/10.1038/s41567-024-02634-6">Nat. Phys. <b>20</b>, 1694–1695 (2024).</a>
+
+[3] <b>AMN</b>, M. H. Christensen, Y. Lee, B. Li, B. G. Ueland, R. M. Fernandes, R. J. McQueeney, L. Ke, P. P. Orth, <em>Competing magnetic fluctuations and orders in a multiorbital model of doped SrCo2As2</em>, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.108.245149">Phys. Rev. B <b>108</b>, 245149 (2023).</a> (<a href="https://github.com/Orth-Research/RPA_SrCo2As2">repository</a>).
+
+[2] <b>AMN</b>, V. L. Quito, Y. Sizyuk, P. P. Orth, <em>Three-state Potts nematic order in stacked frustrated spin models with SO(3) symmetry</em>, <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.184401">Phys. Rev. B <b>107</b>, 184401 (2023)</a>.
+
+[1] Bing Li, J.-Q. Yan, D. M. Pajerowski, E. Gordon, <b>AMN</b>, Y. Sizyuk, L. Ke, P. P. Orth, D. Vaknin, and R. J. McQueeney, <em>Competing magnetic interactions in the antiferromagnetic topological insulator MnBi2Te4</em>, <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.124.167204">Phys. Rev. Lett. <b>124</b>, 167204 (2020)</a>.
 
 <!---
 #### [1] Magnetic phase diagram of the topological insulator MnBi2Te4
